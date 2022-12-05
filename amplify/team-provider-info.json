@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-magiclambda-dev-233650-authRole",
+      "UnauthRoleArn": "arn:aws:iam::433607059963:role/amplify-magiclambda-dev-233650-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::433607059963:role/amplify-magiclambda-dev-233650-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-magiclambda-dev-233650-deployment",
+      "UnauthRoleName": "amplify-magiclambda-dev-233650-unauthRole",
+      "StackName": "amplify-magiclambda-dev-233650",
+      "StackId": "arn:aws:cloudformation:eu-west-2:433607059963:stack/amplify-magiclambda-dev-233650/b2616410-74f5-11ed-a7c6-068d53de7052",
+      "AmplifyAppId": "d1aaxjspocktxa"
+    },
+    "categories": {
+      "function": {
+        "magiclambda": {
+          "deploymentBucketName": "amplify-magiclambda-dev-233650-deployment",
+          "s3Key": "amplify-builds/magiclambda-4a474e4f654e49565150-build.zip"
+        }
+      },
+      "api": {
+        "magicapi": {}
+      }
+    }
+  }
+}
