@@ -165,3 +165,9 @@ git add .
 git commit -m "MEANINGFUL COMMIT MESSAGE"
 git push
 ```
+
+## One Click Deployment App
+
+Using the One Click Deployment will build the web app ready to be used without any local configuration.
+
+[![Amplify Button](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/juancarlosjr97/magic-python-lambda-amplify)
